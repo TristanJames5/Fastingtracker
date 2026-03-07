@@ -1,3 +1,5 @@
+youtube=https://youtu.be/DWHm9dPIVgM
+
 🏋️ Fasting Tracker
 Start/stop button for fasting windows: This is the core interaction. The user taps “Start Fast” when they begin their fasting period, and the app records the exact timestamp. Later, when they tap “Stop Fast,” the app calculates the total duration. This simple toggle ensures that fasting sessions are tracked accurately without requiring manual input.
 
@@ -25,3 +27,4 @@ Motivational quotes when you log progress: Each time a user completes a task, th
 UI theme: bold fonts, dark mode with neon highlights (like a gym at night): The design aesthetic reflects gym culture — strong, bold typography paired with dark backgrounds and neon accents. It feels like stepping into a modern fitness studio, aligning the app’s look with its purpose.
 
 Progress badges: “Shredded Discipline,” “Hydration Beast,” “Streak Machine.”: Achievements gamify the experience. As users hit milestones, they unlock badges with gym‑bro titles. These badges act as digital trophies, celebrating discipline and consistency.
+
