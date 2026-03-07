@@ -2,6 +2,7 @@ Fasting Tracker
 
 
 youtube=https://youtu.be/DWHm9dPIVgM
+github repository-https://github.com/TristanJames5/Fastingtracker.git
 
 🏋️ Fasting Tracker
 Start/stop button for fasting windows: This is the core interaction. The user taps “Start Fast” when they begin their fasting period, and the app records the exact timestamp. Later, when they tap “Stop Fast,” the app calculates the total duration. This simple toggle ensures that fasting sessions are tracked accurately without requiring manual input.
