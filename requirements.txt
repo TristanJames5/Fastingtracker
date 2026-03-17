@@ -1,0 +1,14 @@
+1. cs50
+Ito ang library na gawa ng CS50 staff. Pinapadali nito ang pakikipag-ugnayan sa iyong database. Sa halip na gumamit ng mahabang SQL setup, pinapayagan ka nitong gamitin ang simplified db.execute() command.
+
+2. Flask
+Ito ang "web framework" o ang pinaka-skeleton ng iyong app. Ito ang namamahala sa mga routes (/login, /buy, etc.) at nagpapatakbo ng iyong local server.
+
+3. Flask-Session
+Ang default session ng Flask ay nagtatago ng data sa browser cookies. Ang Flask-Session ay pinapayagan ang iyong app na itago ang user sessions (tulad ng kung sino ang kasalukuyang naka-log in) sa server side (filesystem), na mas safe at mas reliable para sa project na ito.
+
+4. pytz
+Ito ay ginagamit para sa "World Timezone" definitions. Importante ito para sa iyong transactions table upang masigurado na ang timestamp ng bawat bili o benta ay tama base sa timezone, lalo na kung ang server ay nasa ibang bansa.
+
+5. requests
+Ito ang package na ginagamit ng lookup function sa helpers.py. Ito ang "tumatawag" sa IEX API para kumuha ng live stock prices mula sa internet.
